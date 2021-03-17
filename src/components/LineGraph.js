@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {Line} from 'react-chartjs-2';
-import {optionsLineGraph, buildChartData} from './util';
+import {optionsLineGraph, buildChartData} from '../util/util';
 
 function LineGraph({casesType='cases', ...props}) {
   const [data, setData] = useState({});

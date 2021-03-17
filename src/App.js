@@ -8,11 +8,11 @@ import {
   Card,
   CardContent,
 } from "@material-ui/core";
-import {sortData, prettyPrintStat} from './util';
-import InfoBox from './InfoBox';
-import Map from './Map';
-import Table from './Table';
-import LineGraph from './LineGraph';
+import {sortData, prettyPrintStat} from './util/util';
+import InfoBox from './components/InfoBox';
+import Map from './components/Map';
+import Table from './components/Table';
+import LineGraph from './components/LineGraph';
 
 
 
