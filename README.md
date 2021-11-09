@@ -1,7 +1,5 @@
 # Covid-19-Tracker
 
-implemented from the knowledge learnt from [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
-
 API used from [diseash.sh](https://disease.sh/docs/)
 
 ## Technologies learnt and used
